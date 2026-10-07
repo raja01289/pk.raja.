@@ -1,0 +1,8 @@
+export const products = [
+{id:'1',name:'Pakistan Cricket Jersey 2026',category:'Cricket',price:2499,comparePrice:3299,image:'https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&w=900&q=80',featured:true,bestSeller:true,sizes:['S','M','L','XL'],colors:['Green','White']},
+{id:'2',name:'Premium Football Jersey',category:'Football',price:2199,comparePrice:2999,image:'https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=900&q=80',featured:true,bestSeller:true,sizes:['S','M','L','XL'],colors:['Black','White']},
+{id:'3',name:'Elite Training Tracksuit',category:'Tracksuits',price:4499,comparePrice:5999,image:'https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=900&q=80',featured:true,bestSeller:false,sizes:['M','L','XL'],colors:['Black','Navy']},
+{id:'4',name:'Pro Sports Shoes',category:'Shoes',price:5999,comparePrice:7499,image:'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80',featured:true,bestSeller:true,sizes:['40','41','42','43','44'],colors:['Black','Red']},
+{id:'5',name:'Performance Football Shorts',category:'Football',price:1499,comparePrice:1999,image:'https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=900&q=80',featured:false,bestSeller:true,sizes:['S','M','L','XL'],colors:['Black','White']},
+{id:'6',name:'Classic Sports Cap',category:'Accessories',price:999,comparePrice:1299,image:'https://images.unsplash.com/photo-1521369909029-2afed882baee?auto=format&fit=crop&w=900&q=80',featured:false,bestSeller:false,sizes:['Free Size'],colors:['Black','White']}
+];

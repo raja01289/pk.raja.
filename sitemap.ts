@@ -1,0 +1,1 @@
+import type {MetadataRoute} from 'next'; export default function sitemap():MetadataRoute.Sitemap{const base='https://your-domain.vercel.app';return[{url:base,changeFrequency:'weekly',priority:1},{url:base+'/shop',changeFrequency:'daily',priority:.9},{url:base+'/cart',priority:.5},{url:base+'/checkout',priority:.5}]}
